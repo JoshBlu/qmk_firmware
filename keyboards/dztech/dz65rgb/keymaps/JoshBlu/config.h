@@ -56,3 +56,7 @@
     #undef ENABLE_RGB_MATRIX_SOLID_SPLASH        // Hue & value pulse away from a single key hit then fades value out
     #undef ENABLE_RGB_MATRIX_SOLID_MULTISPLASH   // Hue & value pulse away from multiple key hits then fades value out
 #endif
+||||||| parent of 483aee036c (Updated Keymap, Enabled Caps Word and defined BOTH_SHIFTS_TURNS_ON_CAPS_WORD)
+=======
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+>>>>>>> 483aee036c (Updated Keymap, Enabled Caps Word and defined BOTH_SHIFTS_TURNS_ON_CAPS_WORD)

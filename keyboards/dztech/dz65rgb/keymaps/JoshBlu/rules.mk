@@ -6,3 +6,7 @@ GRAVE_ESC_ENABLE = no
 MUSIC_ENABLE = no
 SPACE_CADET_ENABLE = no
 
+||||||| parent of 483aee036c (Updated Keymap, Enabled Caps Word and defined BOTH_SHIFTS_TURNS_ON_CAPS_WORD)
+=======
+CAPS_WORD_ENABLE = yes
+>>>>>>> 483aee036c (Updated Keymap, Enabled Caps Word and defined BOTH_SHIFTS_TURNS_ON_CAPS_WORD)
