@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
 #define TAPPING_TOGGLE 5
 //Following rules to reduce firmware size
